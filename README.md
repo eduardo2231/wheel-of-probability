@@ -41,7 +41,7 @@ This project is ideal for decision making, game design, classroom activities, ra
 
 ```
 wheel of probability/
-├── roda.html      # Single-page interactive probability wheel
+├── index.html      # Single-page interactive probability wheel
 ├── README.md      # Project documentation
 └── LICENSE        # Optional license file
 ```
