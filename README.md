@@ -25,7 +25,7 @@ This project is ideal for decision making, game design, classroom activities, ra
 
 ## 🚀 How to Use
 
-1. Open `roda.html` in a modern browser.
+1. Open `index.html` in a modern browser.
 2. Edit the option labels and weights in the "Options" panel.
 3. Click the **GIRAR** button to spin the wheel.
 4. The selected option appears under the result section.
